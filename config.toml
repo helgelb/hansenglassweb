@@ -42,28 +42,34 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
+    identifier = ""
+    name = "Hjem"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "products"
     name = "Tjenester"
     url = "/products/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "blog"
     name = "Blogg"
     url = "/blog/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "Om oss"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "contact"
     name = "Kontakt oss"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
   # Footer Menu
 
