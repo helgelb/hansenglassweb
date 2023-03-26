@@ -18,3 +18,14 @@ input,
 textarea {
   -webkit-appearance: none;
 }
+
+/* scroll to top button */
+.scroll-top {
+  visibility: hidden;
+}
+
+@media only screen and ( max-width: 767px ) {
+  .scroll-top{
+      display:none !important;
+  }
+}

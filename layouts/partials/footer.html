@@ -30,7 +30,22 @@
         body.classList.toggle("scroll-lock");
       });
     }
+
+    function toggleScrollToTop() {
+      var scroll = document.querySelector('.scroll-top');
+      if (window.scrollY == 0 && scroll.style.visibility != 'hidden') {
+        scroll.style.visibility = 'hidden';
+      } else {
+        scroll.style.visibility = 'visible';
+      }
+    };
+
     toggleNav();
+    toggleScrollToTop();
+
+    window.addEventListener("scroll", function(){
+      toggleScrollToTop();
+    });
 
     document.querySelector('.scroll-top').addEventListener('click', () => {
       document.documentElement.scrollTop = 0;
