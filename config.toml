@@ -25,7 +25,7 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Hansen Glass"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -43,32 +43,44 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "products"
-    name = "Products"
+    name = "Tjenester"
     url = "/products/"
     weight = 1
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Blogg"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Om oss"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Kontakt oss"
     url = "/contact/"
     weight = 4
 
   # Footer Menu
+
   [[menu.footer]]
-    name = "Home"
-    url = "/"
+    name = "Facebook"
+    url = "https://facebook.com/hansenglass"
+    pre = "<i class='fa-brands fa-facebook fa-lg'></i>"
       weight = 1
 
   [[menu.footer]]
+    name = "Insta"
+    url = "https://instagram.com/hansenglass"
+    pre = "<i class='fa-brands fa-instagram fa-lg'></i>"
+      weight = 2
+
+  [[menu.footer]]
+    name = "Twitter"
+    url = "https://pinterest.com/hansenglass"
+    pre = "<i class='fa-brands fa-pinterest fa-lg'></i>"
+      weight = 3
