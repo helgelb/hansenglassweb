@@ -2,3 +2,19 @@
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+/* form */
+
+input[type='text'],
+input[type='tel'],
+input[type='email'],
+textarea {
+  width: 100%;
+  max-width: 72em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+input,
+textarea {
+  -webkit-appearance: none;
+}

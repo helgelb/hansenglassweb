@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: 'Kontakt oss'
 ---
 
-To contact us, please fill out the form below.
+Ta kontakt med oss...
 
 {{< form >}}
