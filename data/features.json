@@ -1,18 +1,38 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "Glassarbeid",
+    "description": "Tjenestene vi tilbyr osv osv osv",
+    "icon": "fa-solid fa-house-chimney-window",
+    "link": "/products"
   },
   {
-    "title": "Fast",
+    "title": "Snekkertjenester",
     "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
+    "icon": "fa-solid fa-hammer",
+    "link": "/products"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "title": "Triksing",
+    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "icon": "fa-solid fa-person-digging",
+    "link": "/products"
+  },
+  {
+    "title": "Fiksing",
+    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "icon": "fa-solid fa-building",
+    "link": "/products"
+  },
+  {
+    "title": "Triksing",
+    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "icon": "fa-solid fa-person-digging",
+    "link": "/products"
+  },
+  {
+    "title": "Fiksing",
+    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "icon": "fa-solid fa-building",
+    "link": "/products"
   }
 ]
