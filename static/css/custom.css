@@ -29,3 +29,8 @@ textarea {
       display:none !important;
   }
 }
+
+/* Slider swiper */
+.swiper-wrapper img {
+  height: 60vh;
+}
