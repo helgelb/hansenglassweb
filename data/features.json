@@ -3,36 +3,36 @@
     "title": "Glassarbeid",
     "description": "Tjenestene vi tilbyr osv osv osv",
     "icon": "fa-solid fa-house-chimney-window",
-    "link": "/products"
+    "link": "/tjenester/"
   },
   {
     "title": "Snekkertjenester",
     "description": "Light weight and fast loading speed.",
     "icon": "fa-solid fa-hammer",
-    "link": "/products"
+    "link": "/tjenester/"
   },
   {
     "title": "Triksing",
     "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
     "icon": "fa-solid fa-person-digging",
-    "link": "/products"
+    "link": "/tjenester/"
   },
   {
     "title": "Fiksing",
     "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
     "icon": "fa-solid fa-building",
-    "link": "/products"
+    "link": "/tjenester/"
   },
   {
     "title": "Triksing",
     "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
     "icon": "fa-solid fa-person-digging",
-    "link": "/products"
+    "link": "/tjenester/"
   },
   {
     "title": "Fiksing",
     "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
     "icon": "fa-solid fa-building",
-    "link": "/products"
+    "link": "/tjenester/"
   }
 ]
