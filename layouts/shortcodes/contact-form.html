@@ -1,0 +1,59 @@
+<script>
+    function updateTextareaLength(e) {
+        length = e.value.length
+        maxLength = e.maxLength;
+        counter = document.getElementById("counter");
+        text = "(" + length + "/" + maxLength + ") tegn";
+        counter.innerHTML = text;
+        if (length > 3){
+            return false;
+        }
+    }
+</script>
+<form name="contact" action="" method="POST">
+    Navn: 
+    <input 
+        type="text"
+        placeholder="Ditt navn"
+        name="name"
+        class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
+        maxlength="100" 
+        required>
+    E-post:
+    <input
+        type="email"
+        name="email"
+        placeholder="Din epost-adrese"
+        class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
+        maxlength="100" 
+        required>
+    Telefon:
+    <input
+        type="tel"
+        name="phone"
+        placeholder="Din telefonnummer"
+        class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
+        pattern="^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$"
+        maxlength="100" 
+        required>
+    Melding:
+    <textarea
+    rows="5"
+    cols="30"
+    placeholder="Melding / forespørsel"
+        name="message"
+        id="message"
+        class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
+        onchange="updateTextareaLength(this)"
+        oninput="updateTextareaLength(this)"
+        onpropertychange="updateTextareaLength(this)"
+        onkeyup="updateTextareaLength(this)"
+        onload="updateTextareaLength(this)"
+        maxlength="2000"
+        required></textarea>
+    <input
+        type="submit"
+        value="Send"
+        class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
+    <span disabled id="counter" style="float: right;"></span>
+</form>

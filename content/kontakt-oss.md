@@ -4,4 +4,4 @@ title: 'Kontakt oss'
 
 Ta kontakt med oss...
 
-{{< form >}}
+{{< contact-form >}}
