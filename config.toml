@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  mainSections = ['blogg']
 
   googleFonts = true
 
@@ -48,27 +48,27 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
-    identifier = "products"
+    identifier = "tjenester"
     name = "Tjenester"
-    url = "/products/"
+    url = "/tjenester/"
     weight = 2
 
   [[menu.main]]
-    identifier = "blog"
+    identifier = "blogg"
     name = "Blogg"
-    url = "/blog/"
+    url = "/blogg/"
     weight = 3
 
   [[menu.main]]
-    identifier = "about"
+    identifier = "om-oss"
     name = "Om oss"
-    url = "/about/"
+    url = "/om-oss/"
     weight = 4
 
   [[menu.main]]
-    identifier = "contact"
+    identifier = "kontakt-oss"
     name = "Kontakt oss"
-    url = "/contact/"
+    url = "/kontakt-oss/"
     weight = 5
 
   # Footer Menu
