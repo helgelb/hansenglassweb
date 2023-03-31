@@ -57,9 +57,9 @@
   <link href='{{ "css/webfonts.min.css" | relURL }}' rel="stylesheet" />
   {{ end }}
   <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
-    <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-      <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
-              class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
+    <div class="mr-6">
+      <img alt="{{ .Site.Params.logo.alt }}"
+        class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}">
     </div>
     <div class="items-center text-lg text-grey-900 mr-6">
       {{ .Site.Params.site.fullName }}
