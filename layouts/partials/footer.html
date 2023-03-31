@@ -76,6 +76,18 @@
       </div>
     </div>
   </div>
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <ul>
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | safeURL }}"
+          class="block mt-4 lg:inline-block lg:mt-0 py-1 hover:text-white mr-8d">
+          {{ .Name }}
+      </a></li>
+      {{ end }}
+      </ul>
+    </div>
+    </div>
   <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
     &copy; {{site.Title}} {{ now.Year }} All Rights Reserved.
   </div>
