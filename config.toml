@@ -75,19 +75,31 @@ enableRobotsTXT = true
   # Footer Menu
 
   [[menu.footer]]
+    name = "Email"
+    url = "mailto:post@hansenglass.no"
+    pre = "<i class='fa-regular fa-envelope fa-lg'></i>"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Telephone"
+    url = "tel:+4712345678"
+    pre = "<i class='fa-solid fa-phone'></i>"
+      weight = 2
+
+  [[menu.footer]]
     name = "Facebook"
     url = "https://facebook.com/hansenglass"
     pre = "<i class='fa-brands fa-facebook fa-lg'></i>"
-      weight = 1
+      weight = 3
 
   [[menu.footer]]
     name = "Insta"
     url = "https://instagram.com/hansenglass"
     pre = "<i class='fa-brands fa-instagram fa-lg'></i>"
-      weight = 2
+      weight = 4
 
   [[menu.footer]]
     name = "Twitter"
     url = "https://pinterest.com/hansenglass"
     pre = "<i class='fa-brands fa-pinterest fa-lg'></i>"
-      weight = 3
+      weight = 5
