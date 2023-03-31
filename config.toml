@@ -26,6 +26,7 @@ enableRobotsTXT = true
 
   [params.site]
     name = "Hansen Glass"
+    fullName = "Hansen Glass og Vedlikehold"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
