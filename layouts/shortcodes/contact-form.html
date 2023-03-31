@@ -3,7 +3,7 @@
         length = e.value.length
         maxLength = e.maxLength;
         counter = document.getElementById("counter");
-        text = "(" + length + "/" + maxLength + ") tegn";
+        text = length + "/" + maxLength + " tegn";
         counter.innerHTML = text;
         if (length > 3){
             return false;
@@ -17,7 +17,7 @@
         placeholder="Ditt navn"
         name="name"
         class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
-        maxlength="100" 
+        maxlength="100"
         required>
     E-post:
     <input
@@ -25,16 +25,16 @@
         name="email"
         placeholder="Din epost-adrese"
         class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
-        maxlength="100" 
+        maxlength="100"
         required>
     Telefon:
     <input
         type="tel"
         name="phone"
-        placeholder="Din telefonnummer"
+        placeholder="Ditt telefonnummer"
         class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
         pattern="^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$"
-        maxlength="100" 
+        maxlength="100"
         required>
     Melding:
     <textarea
@@ -51,9 +51,9 @@
         onload="updateTextareaLength(this)"
         maxlength="2000"
         required></textarea>
+    <span disabled id="counter" class="text-sm" style="float: right;"></span>
     <input
         type="submit"
         value="Send"
         class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
-    <span disabled id="counter" style="float: right;"></span>
 </form>
