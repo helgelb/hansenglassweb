@@ -1,0 +1,5 @@
+<table>
+{{ range .Site.Data.contact }}
+    <tr><td style="vertical-align: top;">{{ .key }}:</td><td class="pl-4">{{ .value }}</td></tr>
+{{ end }}
+</table>
