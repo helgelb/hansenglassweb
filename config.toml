@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blogg']
+  mainSections = ['referanser']
 
   googleFonts = true
 
@@ -55,9 +55,9 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "blogg"
-    name = "Blogg"
-    url = "/blogg/"
+    identifier = "referanser"
+    name = "Referanser"
+    url = "/referanser/"
     weight = 3
 
   [[menu.main]]
