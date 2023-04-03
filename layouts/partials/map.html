@@ -1,3 +1,7 @@
+
+{{ if .Site.Params.googleMaps }}
+{{ range .Site.Data.map }}
+{{ if .address }}
 <div class="py-5">
     <iframe
     width="100%"
@@ -6,6 +10,13 @@
     loading="lazy"
     allowfullscreen
     referrerpolicy="no-referrer-when-downgrade"
-    src="http://maps.google.com/maps?&q=Fjæreidevegen 266 A, Kolltveit&layer=tc&t=m&z=12&source=embed&output=svembed">
-  </iframe>
+    src="http://maps.google.com/maps?&q={{ .address }}
+        &t={{ if .mapType }}{{ .mapType }}{{ else }}m{{ end }} {{ if .emableTrafic }}&layer=tc{{ end }}
+        &z={{ if .zoomLevel }}{{ .zoomLevel }}{{ else }}10{{ end }}
+        &source=embed
+        &output=svembed">
+</iframe>
 </div>
+{{ end }}
+{{ end }}
+{{ end }}

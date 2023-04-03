@@ -16,6 +16,8 @@ enableRobotsTXT = true
 
   googleFonts = true
 
+  googleMaps = true
+
   [params.logo]
     main = "img/logo/hansenglass.png"
     alt = "Hansen Glass Logo"
