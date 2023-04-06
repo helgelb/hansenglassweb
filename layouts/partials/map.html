@@ -10,7 +10,7 @@
     loading="lazy"
     allowfullscreen
     referrerpolicy="no-referrer-when-downgrade"
-    src="http://maps.google.com/maps?&q={{ .address }}
+    src="https://maps.google.com/maps?&q={{ .address }}
         &t={{ if .mapType }}{{ .mapType }}{{ else }}m{{ end }} {{ if .emableTrafic }}&layer=tc{{ end }}
         &z={{ if .zoomLevel }}{{ .zoomLevel }}{{ else }}10{{ end }}
         &source=embed
