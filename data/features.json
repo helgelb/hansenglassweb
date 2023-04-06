@@ -1,38 +1,26 @@
 [
   {
-    "title": "Glassarbeid",
-    "description": "Tjenestene vi tilbyr osv osv osv",
+    "title": "Alt innen glass",
+    "description": "",
     "icon": "fa-solid fa-house-chimney-window",
     "link": "/tjenester/"
   },
   {
     "title": "Snekkertjenester",
-    "description": "Light weight and fast loading speed.",
+    "description": "",
     "icon": "fa-solid fa-hammer",
     "link": "/tjenester/"
   },
   {
-    "title": "Triksing",
-    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
-    "icon": "fa-solid fa-person-digging",
-    "link": "/tjenester/"
-  },
-  {
-    "title": "Fiksing",
-    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "title": "Vinduer og dører",
+    "description": "",
     "icon": "fa-solid fa-building",
     "link": "/tjenester/"
   },
   {
-    "title": "Triksing",
+    "title": "Vedlikeholdsservice",
     "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
     "icon": "fa-solid fa-person-digging",
-    "link": "/tjenester/"
-  },
-  {
-    "title": "Fiksing",
-    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
-    "icon": "fa-solid fa-building",
     "link": "/tjenester/"
   }
 ]
