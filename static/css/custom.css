@@ -24,13 +24,18 @@ textarea {
   visibility: hidden;
 }
 
+/* Slider swiper */
+.swiper-wrapper img {
+  height: 80vh;
+}
+
 @media only screen and ( max-width: 767px ) {
   .scroll-top{
       display:none !important;
   }
+  .swiper-wrapper img {
+    height: 60vh;
+  }
 }
 
-/* Slider swiper */
-.swiper-wrapper img {
-  height: 60vh;
-}
+

@@ -1,18 +1,27 @@
 [
   {
     "title": "Hansen glass og vedlikehold",
-    "image": "img/slide/slide01.jpg"
+    "image": "img/slide/slide_vindu.jpg"
   },
   {
     "title": "",
-    "image": "img/slide/slide02.jpg"
+    "image": "img/slide/slide_rekkverk.jpg"
   },
   {
     "title": "",
-    "image": "img/slide/glassmester-samle-2.webp"
+    "image": "img/slide/slide_dusj.jpg"
   },
   {
     "title": "",
-    "image": "img/slide/glassmester-samle-1.webp"
+    "image": "img/slide/slide_monter.jpg"
+  },
+  {
+    "title": "",
+    "image": "img/slide/slide_vinterhage.jpg"
+  },
+  {
+    "title": "",
+    "image": "img/slide/slide_baldakin.jpg"
   }
 ]
+
