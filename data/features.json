@@ -1,26 +1,38 @@
 [
   {
     "title": "Alt innen glass",
-    "description": "",
+    "description": "Knust glass, punktert glass, interiørglass og oppgradering av glass",
     "icon": "fa-solid fa-house-chimney-window",
     "link": "/tjenester/"
   },
   {
     "title": "Snekkertjenester",
-    "description": "",
+    "description": "Kledning, tak, tilbygg, etterisolering og andre snekkertjenester",
     "icon": "fa-solid fa-hammer",
     "link": "/tjenester/"
   },
   {
     "title": "Vinduer og dører",
-    "description": "",
+    "description": "Alle typer vinduer og dører",
     "icon": "fa-solid fa-building",
     "link": "/tjenester/"
   },
   {
     "title": "Vedlikeholdsservice",
-    "description": "Send oss en uformell melding og motta et uforpliktende tilbud",
+    "description": "Alt innen vedlikehold av hus og eiendom",
     "icon": "fa-solid fa-person-digging",
+    "link": "/tjenester/"
+  },
+  {
+    "title": "Rekkverk",
+    "description": "Alle typer glassrekkverk, PVC-rekkverk og andre typer rekkverk",
+    "customicon": "img/icon/railing.png",
+    "link": "/tjenester/"
+  },
+  {
+    "title": "Gratis befaring",
+    "description": "Gratis uforpliktende rådgivning før pristilhub",
+    "icon": "fa-solid fa-ruler",
     "link": "/tjenester/"
   }
 ]

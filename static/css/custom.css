@@ -34,3 +34,12 @@ textarea {
 .swiper-wrapper img {
   height: 60vh;
 }
+
+/* Custom icon */
+.icon {
+  background: url('../img/icon/railing.png"');
+  height: 20px;
+  width: 20px;
+  display: block;
+  /* Other styles here */
+}
