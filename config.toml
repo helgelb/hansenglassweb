@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://hansenglass.netlify.app"
 title = "Hansen Glass"
 author = "Ole"
 languageCode = "no"
@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/hansenglass.png"
-    alt = "Hansen Glass Logo"
+    alt = "Hansen Glass og Vedlikehold Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -31,7 +31,6 @@ enableRobotsTXT = true
     fullName = "Hansen Glass og Vedlikehold"
 
   [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
@@ -41,9 +40,6 @@ enableRobotsTXT = true
     meta_og_url = "https://hansenglass.no"
     meta_og_image = "/img/logo/hansenglass.png"
     meta_og_description = "Hansen glass og vedlikehold"
-
-  [params.intro]
-    text="testing testing"
 
 [menu]
 
