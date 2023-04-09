@@ -5,6 +5,7 @@ draft: false
 featured: true
 weight: 1
 description: Vi fikser din baldakin
+image_dir: "baldakin"
 ---
 
 Vi er eksperter på baldakin
