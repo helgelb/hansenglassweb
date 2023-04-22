@@ -1,5 +1,11 @@
----
-title: "Tjenester"
----
++++
+title = "Tjenester"
+description = "Hansen glass og vedlikehold"
+date = "2023-04-06"
+aliases = ["tjenester", "services"]
+author = "Ole"
++++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Velkommen til vår tjenesteside, hvor du finner en liste over alle tjenestene vi tilbyr.
+
+Våre tjenester inkluderer alt fra reparasjon og utskiftning av vinduer og glassdører, til installasjon av skreddersydde glassvegger og speil. Vi tilbyr også et bredt spekter av snekkertjenester, inkludert montering av kjøkken, bygging av terrasser og pergolaer, og til og med restaurering av gamle bygninger.
