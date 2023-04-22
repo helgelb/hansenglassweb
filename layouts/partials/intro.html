@@ -2,12 +2,20 @@
 <div class="mx-auto my-10 max-w-6xl">
     <div class="mx-3 col-span-3 lg:col-span-2 px-2">
         <h2 class="text-4xl py-4">{{ index .Site.Data.intro.title | markdownify }}</h2>
-        {{ index .Site.Data.intro.short_text | markdownify }}
+        {{ range $p := .Site.Data.intro.paragraphs }}
+            <p>{{ $p }}</p><br>
+        {{ end }}
         <div class="flex flex-wrap justify-center text-gray-300 my-5">
-            <a href="kontakt-oss/"
-                class="duration-200 px-6 py-3 bg-tlgray-800 hover:opacity-80 hover:text-white relative block focus:outline-none text-md text-center">
-                Kontakt oss
-            </a>
+            <div class="px-4">
+                <a href="om-oss/" class="duration-200 px-6 py-3 bg-tlgray-800 hover:opacity-80 hover:text-white relative block focus:outline-none text-md text-center">
+                    Mer om oss
+                </a>
+            </div>
+            <div class="px-4">
+                <a href="kontakt-oss/" class="duration-200 px-6 py-3 bg-tlgray-800 hover:opacity-80 hover:text-white relative block focus:outline-none text-md text-center">
+                    Kontakt oss
+                </a>
+            </div>
         </div>
     </div>
 </div>
