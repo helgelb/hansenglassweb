@@ -1,7 +1,7 @@
 +++
 author = "Ole"
 title = "Lite tilbygg på hytte på Kvamskogen"
-date = "2023-01-01"
+date = "2020-10-24"
 description = ""
 tags = []
 image = "img/cover/tilbygg_hytte_kvamskogen.jpg"

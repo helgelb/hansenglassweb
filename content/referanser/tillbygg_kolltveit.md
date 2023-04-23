@@ -1,7 +1,7 @@
 +++
 author = "Ole"
 title = "Tilbygg og oppgradering av bolig på Kolltveit"
-date = "2023-01-01"
+date = "2020-10-28"
 description = ""
 tags = []
 image = "img/cover/tillbygg_kolltveit.jpg"

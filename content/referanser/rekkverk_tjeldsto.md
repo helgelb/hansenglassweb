@@ -1,7 +1,7 @@
 +++
 author = "Ole"
 title = "Rekkverk/levegg på Tjeldstø"
-date = "2023-01-01"
+date = "2017-12-15"
 description = ""
 tags = []
 image = "img/cover/rekkverk_tjeldsto.jpg"

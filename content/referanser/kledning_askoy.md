@@ -1,7 +1,7 @@
 +++
 author = "Ole"
 title = "Kledning på Askøy"
-date = "2023-01-01"
+date = "2023-04-01"
 description = ""
 tags = []
 image = "img/cover/kledning_askoy.jpg"
