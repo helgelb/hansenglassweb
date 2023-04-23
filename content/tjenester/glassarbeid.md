@@ -5,7 +5,6 @@ draft: false
 featured: true
 weight: 2
 description: "Utskifting av vindusglass. Skreddersydde glassløsninger for både innvendig og utvendig bruk"
-image_dir: "glassarbeid"
 ---
 
 Trenger du å bytte vindu? Et knust eller punktert glass er noe som kan skje oss alle. Både vinduer, dører, innglassede balkonger og hagestuer er alle i faresonen i så måte.

@@ -5,7 +5,6 @@ draft: false
 featured: true
 weight: 2
 description: "Effektiv etterisolering av boliger og næringsbygg for bedre energieffektivitet og lavere kostnader"
-image_dir: "etterisolering"
 ---
 
 Har du kalde gulv og lekke vinduer? Ved etterisolering vil du får lavere energibruk og dermed lavere strømutgifter, i tillegg til et bedre inneklima og komfort.

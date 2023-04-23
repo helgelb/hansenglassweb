@@ -5,7 +5,6 @@ draft: false
 featured: true
 weight: 2
 description: "Vi utfører både store og små tilbygg/takoverbygg"
-image_dir: "tilbygg"
 ---
 
 Vi utfører både store og små tilbygg/takoverbygg. Kontakt oss for befaring, vi hjelper deg med dine drømmer!
