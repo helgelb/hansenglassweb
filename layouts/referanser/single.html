@@ -33,6 +33,11 @@
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
             {{.Content}}
         </div>
+        {{ if .Params.image_dir }}
+        <div class="my-4">
+          {{ partial "image-gallery" (dict "context" . "gallery_dir" .Params.image_dir) }}
+        </div>
+        {{ end }}
         <aside id="meta">
             <div class="grid grid-cols-2">
                 <div class="col-span-1">
