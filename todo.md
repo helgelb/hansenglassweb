@@ -1,0 +1,4 @@
+- verifisere epost-adresser
+- fjerne pin fra kart
+- ferdigstille kontakt-oss skjema
+- Bytte ut next og prev med neste og forrige på referanser-sidene

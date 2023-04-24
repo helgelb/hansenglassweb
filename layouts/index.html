@@ -29,9 +29,35 @@
             {{- partial "recent.html" . -}}
         </div>
     </div>
-    {{- partial "map.html" . -}}
+    <!-- {{- partial "map.html" . -}} -->
+
+    <div style="height:100%; width: 100%;"> 
+        <p>hei</p>
+        <div id="map"></div>
+        <p>hei</p>
+    </div>
+
+    <p>hallo</p>
+    <script>
+        let map;
+        const center = {
+            lat: 60.390332,
+            lng: 5.3307082
+        };
+        const zoom = 10;
+
+        function initMap() {
+            map = new google.maps.Map(document.getElementById("map"), {
+                zoom: zoom,
+                center: center,
+            });
+        }
+        
+        window.initMap = initMap;
+    </script>
     {{- partial "footer.html" . -}}
     <script src="{{ "/js/swiper-bundle.min.js" | relURL }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSYDzlxCory9eamtQAt0siX0Dg8inZEXQ&callback=initMap&v=weekly" defer></script>
     <script>
         var mySwiper = new Swiper(".swiper-container", {
             direction: "horizontal",

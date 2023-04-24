@@ -3,19 +3,19 @@
 {{ range .Site.Data.map }}
 {{ if .address }}
 <div>
-    <iframe
+    <!-- <iframe
     width="100%"
     height="350"
     style="border:0"
     loading="lazy"
     allowfullscreen
     referrerpolicy="no-referrer-when-downgrade"
-    src="https://maps.google.com/maps?&q={{ .address }}
+    src="https://maps.google.com/maps?q=37.421770,-122.08448
         &t={{ if .mapType }}{{ .mapType }}{{ else }}m{{ end }} {{ if .emableTrafic }}&layer=tc{{ end }}
         &z={{ if .zoomLevel }}{{ .zoomLevel }}{{ else }}10{{ end }}
         &source=embed
         &output=svembed">
-</iframe>
+</iframe> -->
 </div>
 {{ end }}
 {{ end }}
