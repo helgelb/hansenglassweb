@@ -70,7 +70,7 @@
       </div>
       <div class="flex flex-row items-center text-lg">
         {{ range .Site.Menus.footer }}
-        <a href="{{ .URL }}" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+        <a href="{{ .URL | safeURL }}" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
           {{ if not .Pre }}
           {{ .Name }}
           {{ else }}
@@ -88,7 +88,7 @@
     Nagivasjon:
     <div class="flex items-center justify-between flex-wrap" style="padding-top: 0.25rem;">
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-        <ul>
+        <ul class="ml-2">
           {{ range .Site.Menus.main }}
           <li><a href="{{ .URL | safeURL }}"
             class="block mt-4 lg:inline-block lg:mt-0 py-1 hover:text-white mr-8">
