@@ -6,7 +6,9 @@ aliases = ["about-us", "contact"]
 author = "Ole"
 +++
 
-Velkommen til Hansen glass og vedlikehold, din pålitelige partner for glassarbeid og snekkertjenester. Vi tilbyr et bredt spekter av tjenester og har kompetansen til å håndtere alt fra mindre reparasjoner til større prosjekter.
+Velkommen til Hansen glass og vedlikehold, din pålitelige partner for glassarbeid og snekkertjenester. Vi tilbyr et bredt spekter av tjenester og har kompetansen til å håndtere alt fra mindre reparasjoner til større prosjekter. 
+
+Vi holder til i Øygarden og tar oppdrag i hele Bergensområdet.
 
 Vi er stolte av å kunne tilby skreddersydde glassløsninger og omfattende snekkerprosjekter som passer til dine spesifikke behov og ønsker. Vi vil sette av tid til å forstå dine behov og ønsker, og vil jobbe hardt for å levere kvalitet og presisjon i arbeidet.
 
