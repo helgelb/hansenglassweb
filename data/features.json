@@ -9,13 +9,13 @@
     "title": "Snekkertjenester",
     "description": "Kledning, tak, tilbygg, etterisolering og andre snekkertjenester",
     "icon": "fa-solid fa-hammer",
-    "link": "/tjenester/"
+    "link": "/tjenester/tomrertjenester/"
   },
   {
     "title": "Vinduer og dører",
     "description": "Alle typer vinduer og dører",
     "icon": "fa-solid fa-building",
-    "link": "/tjenester/"
+    "link": "/tjenester/glassarbeid/"
   },
   {
     "title": "Vedlikeholdsservice",
@@ -27,12 +27,12 @@
     "title": "Rekkverk",
     "description": "Alle typer glassrekkverk, PVC-rekkverk og andre typer rekkverk",
     "customicon": "img/icon/railing.png",
-    "link": "/tjenester/"
+    "link": "/tjenester/rekkverk/"
   },
   {
     "title": "Gratis befaring",
-    "description": "Gratis uforpliktende rådgivning før pristilhub",
+    "description": "Gratis uforpliktende rådgivning før pristilbud",
     "icon": "fa-solid fa-ruler",
-    "link": "/tjenester/"
+    "link": "/kontakt-oss/"
   }
 ]

@@ -27,7 +27,7 @@
         name="subject"
         value="Ny henvendelse mottatt fra hansenglass.no"
     >
-    Navn: 
+    Navn: *
     <input 
         type="text"
         placeholder="Ditt navn"
@@ -36,7 +36,7 @@
         maxlength="100"
         required
     >
-    E-post:
+    E-post: *
     <input
         type="email"
         name="email"
@@ -45,7 +45,7 @@
         maxlength="100"
         required
     >
-    Telefon:
+    Telefon: *
     <input
         type="tel"
         name="phone"
@@ -55,11 +55,11 @@
         maxlength="100"
         required
     >
-    Melding:
+    Melding: *
     <textarea
     rows="5"
     cols="30"
-    placeholder="Melding / forespørsel"
+    placeholder="Din melding eller forespørsel"
         name="message"
         id="message"
         class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
@@ -70,7 +70,8 @@
         onload="updateTextareaLength(this)"
         maxlength="2000"
         required></textarea>
-    <span disabled id="counter" class="text-sm" style="float: right;"></span>
+    <span disabled class="text-sm" style="float: right;clear: right;">* Påkrevde felter</span>
+    <span disabled id="counter" class="text-sm" style="float: right;clear: right;"></span>
     <input
         type="submit"
         value="Send"
