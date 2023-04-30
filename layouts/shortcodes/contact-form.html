@@ -12,10 +12,21 @@
 </script>
 <form 
     name="contact"
-    action=""
+    action="/henvendelse-mottatt"
     method="POST"
+    netlify-honeypot="bot-field"
     netlify
 >
+    <input
+        name="bot-field"
+        class="hidden"
+    >
+    <input
+        type="hidden"
+        class="hidden"
+        name="subject"
+        value="Ny henvendelse mottatt fra hansenglass.no"
+    >
     Navn: 
     <input 
         type="text"
@@ -58,8 +69,7 @@
         onkeyup="updateTextareaLength(this)"
         onload="updateTextareaLength(this)"
         maxlength="2000"
-        required>
-    </textarea>
+        required></textarea>
     <span disabled id="counter" class="text-sm" style="float: right;"></span>
     <input
         type="submit"
