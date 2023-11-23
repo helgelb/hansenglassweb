@@ -1,4 +1,0 @@
-- fjerne pin fra kart
-- endre epost på form i netlify
-- Bytte ut next og prev med neste og forrige på referanser-sidene
-- domene og dns-oppsett
