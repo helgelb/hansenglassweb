@@ -1,14 +1,14 @@
 +++
 title = "Hansen Bygg og Glasservice AS"
 description = "Hansen Bygg og Glasservice AS"
-date = "2023-04-06"
+date = "2024-09-22"
 aliases = ["about-us", "contact"]
 author = "Ole"
 +++
 
-Velkommen til Hansen Bygg og Glasservice AS, din pålitelige partner for glassarbeid og snekkertjenester. Vi tilbyr et bredt spekter av tjenester og har kompetansen til å håndtere alt fra mindre reparasjoner til større prosjekter. 
+Velkommen til Hansen Bygg og Glasservice AS, din pålitelige partner for glassarbeid og snekkertjenester. Vi holder til i Øygarden og tar oppdrag i hele Bergensområdet. Vi tilbyr et bredt spekter av tjenester og har kompetansen til å håndtere alt fra mindre reparasjoner til større prosjekter. 
 
-Vi holder til i Øygarden og tar oppdrag i hele Bergensområdet.
+*Hansen Glass og Vedlikehold* ble etablert i 2022, og etterspørselen etter våre tjenester begynte for alvor å ta seg opp i løpet av 2023. I 2024 så vi behovet for å utvide driften, ansette flere håndverkere og videreutvikle våre tjenester. Navneendringen til *Hansen Bygg og Glasservice* reflekterer bedre firmaets visjon og omfanget av prosjektene vi nå tar på oss. Selv om vi vokser og utvider, kan du som kunde fortsatt forvente samme høye nivå av profesjonalitet og kvalitet som vi alltid har levert.
 
 Vi er stolte av å kunne tilby skreddersydde glassløsninger og omfattende snekkerprosjekter som passer til dine spesifikke behov og ønsker. Vi vil sette av tid til å forstå dine behov og ønsker, og vil jobbe hardt for å levere kvalitet og presisjon i arbeidet.
 

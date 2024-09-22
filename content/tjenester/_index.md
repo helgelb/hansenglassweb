@@ -8,4 +8,4 @@ author = "Ole"
 
 Velkommen til vår tjenesteside, hvor du finner en liste over alle tjenestene vi tilbyr.
 
-Våre tjenester inkluderer alt fra reparasjon og utskiftning av vinduer og glassdører, til installasjon av skreddersydde glassvegger og speil. Vi tilbyr også et bredt spekter av snekkertjenester, inkludert montering av kjøkken, bygging av terrasser og pergolaer, og til og med restaurering av gamle bygninger.
+Vi tilbyr et bredt spekter av profesjonelle tjenester innen både tømrer- og glassarbeid. Våre snekkertjenester inkluderer blant annet montering av kjøkken, bygging av terrasser og pergolaer, samt restaurering av gamle bygninger. Vi spesialiserer oss også på alt fra reparasjon og utskiftning av vinduer og glassdører, til installasjon av skreddersydde glassvegger og speil.
