@@ -19,7 +19,7 @@ enableRobotsTXT = true
   googleMaps = true
 
   [params.logo]
-    main = "img/logo/hansenglass.png"
+    main = "img/logo/hansen-bygg-og-glasservice.png"
     alt = "Hansen Glass og Vedlikehold Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -77,7 +77,7 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "E-post"
-    url = "mailto:ole@hansenglass.no"
+    url = "mailto:ole@byggogglass.no"
     pre = "<i class='fa-regular fa-envelope fa-lg'></i>"
       weight = 1
 
