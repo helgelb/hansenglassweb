@@ -7,7 +7,7 @@ weight: 5
 description: "Restaurering og bevaring av eldre bygninger og konstruksjoner"
 ---
 
-Hansen glass og vedligehold driver med restaurering av eldre hus til moderne standard er faglig krevende. Våre fagarbeidere har lang erfaring med restaurering og vil sørge for at bygningens særpreg beholdes, samtidig som huset oppfyller dagens krav til funksjonalitet og kvalitet. Vi tilbyr førsteklasses restaurerings tjenester som helt eller delvis vil tilbakeføre bygget til den opprinnelige tilstanden. Med vår lange erfaring vet vi hva som er mulig å få til innenfor et gitt budsjett. Vi kan ta på oss hele eller deler av jobben
+Hansen Bygg og Glasservice driver med restaurering av eldre hus til moderne standard er faglig krevende. Våre fagarbeidere har lang erfaring med restaurering og vil sørge for at bygningens særpreg beholdes, samtidig som huset oppfyller dagens krav til funksjonalitet og kvalitet. Vi tilbyr førsteklasses restaurerings tjenester som helt eller delvis vil tilbakeføre bygget til den opprinnelige tilstanden. Med vår lange erfaring vet vi hva som er mulig å få til innenfor et gitt budsjett. Vi kan ta på oss hele eller deler av jobben
 
 Eksempler på tjenester innenfor restaurering:
 
