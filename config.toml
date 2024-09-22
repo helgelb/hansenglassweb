@@ -1,5 +1,5 @@
 baseURL = "https://hansenglass.no"
-title = "Hansen Glass"
+title = "Hansen Glass og Vedlikehold AS"
 author = "Ole"
 languageCode = "no"
 DefaultContentLanguage = "no"
@@ -27,19 +27,19 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Hansen Glass"
-    fullName = "Hansen Glass og Vedlikehold"
+    name = "Hansen Glass og Vedlikehold AS"
+    fullName = "Hansen Glass og Vedlikehold AS"
 
   [params.icon]
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hansen glass og vedlikehold"
-    meta_og_title = "Hansen glass"
+    meta_description = "Hansen Glass og Vedlikehold AS"
+    meta_og_title = "Hansen Glass og Vedlikehold AS"
     meta_og_type = "website"
     meta_og_url = "https://hansenglass.no"
     meta_og_image = "/img/logo/hansenglass.png"
-    meta_og_description = "Hansen glass og vedlikehold"
+    meta_og_description = "Hansen Glass og Vedlikehold AS"
 
 [menu]
 

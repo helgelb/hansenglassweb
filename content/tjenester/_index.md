@@ -1,6 +1,6 @@
 +++
 title = "Tjenester"
-description = "Hansen glass og vedlikehold"
+description = "Hansen Glass og Vedlikehold AS"
 date = "2023-04-06"
 aliases = ["tjenester", "services"]
 author = "Ole"
