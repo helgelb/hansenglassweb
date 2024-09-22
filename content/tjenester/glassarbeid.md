@@ -9,7 +9,7 @@ description: "Utskifting av vindusglass. Skreddersydde glassløsninger for både
 
 Trenger du å bytte vindu? Et knust eller punktert glass er noe som kan skje oss alle. Både vinduer, dører, innglassede balkonger og hagestuer er alle i faresonen i så måte.
 
-Hansen glass og vedlikehold er spesialiserte på å bytte ut alle typer knuste og punkterte glassruter. Vi tar oss av hele prosessen, fra oppmåling, leveranse av glass, selve utskiftningen og til slutt håndteringen av den gamle ruten.
+Hansen Bygg og Glasservice er spesialiserte på å bytte ut alle typer knuste og punkterte glassruter. Vi tar oss av hele prosessen, fra oppmåling, leveranse av glass, selve utskiftningen og til slutt håndteringen av den gamle ruten.
 Dersom du har knust eller punktert glass i Bergen som du ønsker å få byttet ut hører vi gjerne fra deg. Vi er raske i å kartlegge ditt behov, og tilby en løsning som dekker disse til din tilfredsstillelse. Du kan kontakte oss her!
 
 - Tilbyr tjenester innenfor glassmontering og reparasjon

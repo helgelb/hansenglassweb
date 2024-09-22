@@ -1,5 +1,5 @@
 baseURL = "https://hansenglass.no"
-title = "Hansen Glass og Vedlikehold AS"
+title = "Hansen Bygg og Glasservice AS"
 author = "Ole"
 languageCode = "no"
 DefaultContentLanguage = "no"
@@ -20,26 +20,26 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/hansen-bygg-og-glasservice.png"
-    alt = "Hansen Glass og Vedlikehold Logo"
+    alt = "Hansen Bygg og Glasservice Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Hansen Glass og Vedlikehold AS"
-    fullName = "Hansen Glass og Vedlikehold AS"
+    name = "Hansen Bygg og Glasservice AS"
+    fullName = "Hansen Bygg og Glasservice AS"
 
   [params.icon]
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hansen Glass og Vedlikehold AS"
-    meta_og_title = "Hansen Glass og Vedlikehold AS"
+    meta_description = "Hansen Bygg og Glasservice AS"
+    meta_og_title = "Hansen Bygg og Glasservice AS"
     meta_og_type = "website"
     meta_og_url = "https://hansenglass.no"
     meta_og_image = "/img/logo/hansenglass.png"
-    meta_og_description = "Hansen Glass og Vedlikehold AS"
+    meta_og_description = "Hansen Bygg og Glasservice AS"
 
 [menu]
 
