@@ -6,6 +6,7 @@ DefaultContentLanguage = "no"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
+timeout = 300 # 5 minutes
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
